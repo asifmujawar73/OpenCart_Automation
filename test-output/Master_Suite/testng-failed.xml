@@ -4,9 +4,9 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Linux-chrome-Test(failed)">
+    <parameter name="os" value="Linux"/>
+    <parameter name="browser" value="firefox"/>
     <classes>
       <class name="testCases.TC_001_AccountRegistrationTest">
         <methods>
@@ -23,5 +23,5 @@
         </methods>
       </class> <!-- testCases.TC_002_AccountLogin -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Linux-chrome-Test(failed) -->
 </suite> <!-- Failed suite [Master_Suite] -->

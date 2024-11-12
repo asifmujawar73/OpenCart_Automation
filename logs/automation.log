@@ -1,114 +1,80 @@
-2024-11-10 12:12:43 INFO  Utils:112 -
+2024-11-12 16:32:04 INFO  Utils:112 -
 			[TestNG] Running:
   D:\Java\OpenCartEcom\master.xml
 
-2024-11-10 12:12:54 INFO  TC_001_AccountRegistrationTest:13 -
-			***** Starting TC001_AccountRegistrationTest *****
-2024-11-10 12:12:57 INFO  TC_001_AccountRegistrationTest:20 -
-			Clicked on Register Link.
-2024-11-10 12:12:57 INFO  TC_001_AccountRegistrationTest:23 -
-			Providing customer details...
-2024-11-10 12:12:59 INFO  TC_001_AccountRegistrationTest:32 -
-			Validating expected message...
-2024-11-10 12:13:01 INFO  TC_001_AccountRegistrationTest:37 -
-			Validating expected message..
-2024-11-10 12:13:01 INFO  TC_001_AccountRegistrationTest:42 -
-			Test passed
-2024-11-10 12:13:01 INFO  TC_001_AccountRegistrationTest:47 -
-			***** Finished TC001_AccountRegistrationTest *****
-2024-11-10 12:13:13 INFO  TC_002_AccountLogin:14 -
-			**** TC_002 Account Login Test - started ****
-2024-11-10 12:13:23 INFO  TC_002_AccountLogin:41 -
-			**** TC_002_AccountLoginTest Finished ****
-2024-11-10 12:15:03 INFO  Utils:112 -
-			[TestNG] Running:
-  D:\Java\OpenCartEcom\master.xml
-
-2024-11-10 12:15:09 INFO  TC_001_AccountRegistrationTest:13 -
-			***** Starting TC001_AccountRegistrationTest *****
-2024-11-10 12:15:12 INFO  TC_001_AccountRegistrationTest:20 -
-			Clicked on Register Link.
-2024-11-10 12:15:12 INFO  TC_001_AccountRegistrationTest:23 -
-			Providing customer details...
-2024-11-10 12:15:14 INFO  TC_001_AccountRegistrationTest:32 -
-			Validating expected message...
-2024-11-10 12:15:16 INFO  TC_001_AccountRegistrationTest:37 -
-			Validating expected message..
-2024-11-10 12:15:16 INFO  TC_001_AccountRegistrationTest:42 -
-			Test passed
-2024-11-10 12:15:16 INFO  TC_001_AccountRegistrationTest:47 -
-			***** Finished TC001_AccountRegistrationTest *****
-2024-11-10 12:15:24 INFO  TC_002_AccountLogin:14 -
-			**** TC_002 Account Login Test - started ****
-2024-11-10 12:15:33 INFO  TC_002_AccountLogin:41 -
-			**** TC_002_AccountLoginTest Finished ****
-2024-11-10 12:16:20 INFO  Utils:112 -
-			[TestNG] Running:
-  D:\Java\OpenCartEcom\master.xml
-
-2024-11-10 12:16:27 INFO  TC_001_AccountRegistrationTest:13 -
-			***** Starting TC001_AccountRegistrationTest *****
-2024-11-10 12:16:28 INFO  TC_001_AccountRegistrationTest:20 -
-			Clicked on Register Link.
-2024-11-10 12:16:28 INFO  TC_001_AccountRegistrationTest:23 -
-			Providing customer details...
-2024-11-10 12:16:31 INFO  TC_001_AccountRegistrationTest:32 -
-			Validating expected message...
-2024-11-10 12:16:34 INFO  TC_001_AccountRegistrationTest:37 -
-			Validating expected message..
-2024-11-10 12:16:34 INFO  TC_001_AccountRegistrationTest:42 -
-			Test passed
-2024-11-10 12:16:34 INFO  TC_001_AccountRegistrationTest:47 -
-			***** Finished TC001_AccountRegistrationTest *****
-2024-11-10 12:16:42 INFO  TC_002_AccountLogin:14 -
-			**** TC_002 Account Login Test - started ****
-2024-11-10 12:16:51 INFO  TC_002_AccountLogin:41 -
-			**** TC_002_AccountLoginTest Finished ****
-2024-11-10 12:26:39 INFO  Utils:112 -
-			[TestNG] Running:
-  D:\Java\OpenCartEcom\master.xml
-
-2024-11-10 12:26:46 INFO  TC_001_AccountRegistrationTest:13 -
-			***** Starting TC001_AccountRegistrationTest *****
-2024-11-10 12:26:48 INFO  TC_001_AccountRegistrationTest:20 -
-			Clicked on Register Link.
-2024-11-10 12:26:48 INFO  TC_001_AccountRegistrationTest:23 -
-			Providing customer details...
-2024-11-10 12:26:51 INFO  TC_001_AccountRegistrationTest:32 -
-			Validating expected message...
-2024-11-10 12:26:52 INFO  TC_001_AccountRegistrationTest:37 -
-			Validating expected message..
-2024-11-10 12:26:53 INFO  TC_001_AccountRegistrationTest:42 -
-			Test passed
-2024-11-10 12:26:53 INFO  TC_001_AccountRegistrationTest:47 -
-			***** Finished TC001_AccountRegistrationTest *****
-2024-11-10 12:27:01 INFO  TC_002_AccountLogin:14 -
-			**** TC_002 Account Login Test - started ****
-2024-11-10 12:27:09 INFO  TC_002_AccountLogin:41 -
-			**** TC_002_AccountLoginTest Finished ****
-2024-11-10 12:27:17 INFO  TC_004_AddCart:13 -
+2024-11-12 16:32:11 INFO  TC_004_AddCart:13 -
 			***** Starting TC004_AccountRegistrationTest *****
-2024-11-10 12:27:18 INFO  TC_004_AddCart:20 -
+2024-11-12 16:32:11 INFO  TC_004_AddCart:20 -
 			Clicked on Register Link.
-2024-11-10 12:27:18 INFO  TC_004_AddCart:24 -
+2024-11-12 16:32:11 INFO  TC_004_AddCart:24 -
 			Providing customer details...
-2024-11-10 12:29:25 INFO  Utils:112 -
+2024-11-12 18:46:58 INFO  Utils:112 -
 			[TestNG] Running:
   D:\Java\OpenCartEcom\master.xml
 
-2024-11-10 12:29:32 INFO  TC_004_AddCart:13 -
+2024-11-12 18:47:13 INFO  TC_004_AddCart:13 -
 			***** Starting TC004_AccountRegistrationTest *****
-2024-11-10 12:29:33 INFO  TC_004_AddCart:20 -
+2024-11-12 18:47:14 INFO  TC_004_AddCart:20 -
 			Clicked on Register Link.
-2024-11-10 12:29:33 INFO  TC_004_AddCart:24 -
+2024-11-12 18:47:14 INFO  TC_004_AddCart:24 -
 			Providing customer details...
-2024-11-10 12:31:31 INFO  Utils:112 -
+2024-11-12 18:48:12 INFO  Utils:112 -
 			[TestNG] Running:
   D:\Java\OpenCartEcom\master.xml
 
-2024-11-10 12:31:40 INFO  TC_004_AddCart:13 -
-			***** Starting TC004_AccountRegistrationTest *****
-2024-11-10 12:31:41 INFO  TC_004_AddCart:20 -
+2024-11-12 18:51:54 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 18:54:33 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 19:10:21 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 19:15:09 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 19:19:57 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 19:20:45 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 19:23:37 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 19:30:54 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 19:32:08 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Java\OpenCartEcom\master.xml
+
+2024-11-12 19:32:15 INFO  TC_001_AccountRegistrationTest:13 -
+			***** Starting TC001_AccountRegistrationTest *****
+2024-11-12 19:32:17 INFO  TC_001_AccountRegistrationTest:20 -
 			Clicked on Register Link.
-2024-11-10 12:31:41 INFO  TC_004_AddCart:24 -
+2024-11-12 19:32:17 INFO  TC_001_AccountRegistrationTest:23 -
 			Providing customer details...
+2024-11-12 19:32:18 INFO  TC_001_AccountRegistrationTest:32 -
+			Validating expected message...
+2024-11-12 19:32:19 INFO  TC_001_AccountRegistrationTest:37 -
+			Validating expected message..
+2024-11-12 19:32:19 INFO  TC_001_AccountRegistrationTest:42 -
+			Test passed
+2024-11-12 19:32:19 INFO  TC_001_AccountRegistrationTest:47 -
+			***** Finished TC001_AccountRegistrationTest *****
+2024-11-12 19:32:27 INFO  TC_002_AccountLogin:14 -
+			**** TC_002 Account Login Test - started ****
+2024-11-12 19:32:35 INFO  TC_002_AccountLogin:41 -
+			**** TC_002_AccountLoginTest Finished ****
+2024-11-12 19:32:46 INFO  TC_003_LoginDDT:23 -
+			**** Starting TC_003_LoginDDT *****

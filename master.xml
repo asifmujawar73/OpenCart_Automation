@@ -9,9 +9,10 @@
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<!-- <class name="testCases.TC_001_AccountRegistrationTest"></class>
-			<class name="testCases.TC_002_AccountLogin" /> 
+			<class name="testCases.TC_002_AccountLogin" />
 			<class name="testCases.TC_003_LoginDDT" /> -->
 			<class name="testCases.TC_004_AddCart"></class>
+			<class name="testCases.TC_005_WishlistProductVerify"></class>
 		</classes>
 	</test> <!--
 	Test -->

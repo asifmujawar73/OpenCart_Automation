@@ -99,8 +99,8 @@ public class BaseClass {
 	@AfterClass(groups = { "Sanity", "Regression", "Master" }) // , "Datadriven keeping out bcoz its take lot time to
 																// execute.
 	public void tearDown() throws InterruptedException {
-//		Thread.sleep(3000);
-//		driver.quit();
+		Thread.sleep(3000);
+		driver.quit();
 	}
 
 	// Replaces the deprecated method randomAlphabetic with Random + SecureRandom
